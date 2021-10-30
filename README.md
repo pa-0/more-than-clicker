@@ -15,7 +15,7 @@ Download realease and run exe, no prerequisites required. 🎉
   listening on 4321, try: http://localhost:4321`
   ```
 - At this point you can open http://localhost:4321 on computer running application, or grab your mobile that is connected to the same network and go to http://`<your-local-ip>`:4321
-- Preview [screenshots](http://...#Screenshots)
+- Preview [screenshots](#Screenshots)
 
 ___
 <h2 align="center"> Posible keys for keyTap </h1>
