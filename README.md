@@ -1,4 +1,4 @@
-# AUTOMATION HUB 🦾
+# AUTOMATION HUBS 🦾
 ## 📍 Requirements to run
 Download realease and run exe, no prerequisites required. 🎉
 
