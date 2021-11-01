@@ -3,8 +3,8 @@
 Download realease and run exe, no prerequisites required. 🎉
 
 ## Available OS:
-- MacOS
-- Windows
+- [MacOS](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS)
+- [Windows](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64)
 
 ## How it Works
 - At the beginning you have to run executable.
