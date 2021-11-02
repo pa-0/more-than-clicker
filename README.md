@@ -1,7 +1,7 @@
 # AUTOMATION HUBS
-[![ReleaseDate](https://img.shields.io/github/release-date/aarnas/more-than-clicker?label=Release%20date)](#automation-hubs)
-[![Issues](https://img.shields.io/github/issues/aarnas/more-than-clicker?label=Issues)](#automation-hubs)
-[![Downloads](https://img.shields.io/github/downloads/aarnas/more-than-clicker/total?label=Total%20downloads&cacheSeconds=60)](#automation-hubs)
+[![ReleaseDate](https://img.shields.io/github/release-date/aarnas/more-than-clicker?label=Release%20date)](https://github.com/aarnas/more-than-clicker/releases)
+[![Issues](https://img.shields.io/github/issues/aarnas/more-than-clicker?label=Issues)](https://github.com/aarnas/more-than-clicker/issues)
+[![Downloads](https://img.shields.io/github/downloads/aarnas/more-than-clicker/total?label=Total%20downloads&cacheSeconds=60)](https://github.com/aarnas/more-than-clicker/releases)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/aarnas/more-than-clicker/MacOS/total)](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/aarnas/more-than-clicker/Windows-x64/total)](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64)
 
