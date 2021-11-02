@@ -1,5 +1,5 @@
 # AUTOMATION HUBS
-![Downloads](https://img.shields.io/github/downloads/aarnas/more-than-clicker/total?label=Downloads&cacheSeconds=3600)
+![Downloads](https://img.shields.io/github/downloads/ShareX/ShareX/total?label=Downloads&cacheSeconds=3600)
 ## Requirements to run
 Download realease and run, no prerequisites required. 🎉
 
