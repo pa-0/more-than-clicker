@@ -1,13 +1,16 @@
 # AUTOMATION HUBS
-[![License](https://img.shields.io/github/license/aarnas/more-than-clicker?label=License&cacheSeconds=3600)](./LICENSE.txt)
-[![Downloads](https://img.shields.io/github/downloads/aarnas/more-than-clicker/total?label=Downloads&cacheSeconds=60)](./tags)
+[![ReleaseDate](https://img.shields.io/github/release-date/aarnas/more-than-clicker?label=Release%20date)](#)
+[![Issues](https://img.shields.io/github/issues/aarnas/more-than-clicker?label=Issues)](#)
+[![Downloads](https://img.shields.io/github/downloads/aarnas/more-than-clicker/total?label=Total%20downloads&cacheSeconds=60)](#)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/aarnas/more-than-clicker/MacOS/total)](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/aarnas/more-than-clicker/Windows-x64/total)](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64)
 
 ## Requirements to run
 Download realease and run, no prerequisites required. 🎉
 
 ## Available OS:
-- [MacOS](./releases/tag/MacOS)
-- [Windows](./releases/tag/Windows-x64)
+- [MacOS](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS)
+- [Windows](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64)
 
 ## How it Works
 - At the beginning you have to run executable.
