@@ -1,4 +1,7 @@
 # AUTOMATION HUBS
+[![License](https://img.shields.io/github/license/aarnas/more-than-clicker?label=License&cacheSeconds=3600)](./LICENSE.txt)
+[![Downloads](https://img.shields.io/github/downloads/aarnas/more-than-clicker/total?label=Downloads&cacheSeconds=60)](./tags)
+
 ## Requirements to run
 Download realease and run, no prerequisites required. 🎉
 
