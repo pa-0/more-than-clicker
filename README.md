@@ -1,6 +1,7 @@
-# AUTOMATION HUBS 🦾
-## 📍 Requirements to run
-Download realease and run exe, no prerequisites required. 🎉
+# AUTOMATION HUBS
+![Downloads](https://img.shields.io/github/downloads/aarnas/more-than-clicker/total?label=Downloads&cacheSeconds=3600)
+## Requirements to run
+Download realease and run, no prerequisites required. 🎉
 
 ## Available OS:
 - [MacOS](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS)
