@@ -9,8 +9,9 @@
 Download realease and run, no prerequisites required. 🎉
 
 ## Available OS:
-- [MacOS](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS)
 - [Windows](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64)
+- [MacOS](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS)
+- [Ubuntu](https://github.com/aarnas/more-than-clicker/releases/tag/Ubuntu-x64)
 
 ## How it Works
 - At the beginning you have to run executable.
