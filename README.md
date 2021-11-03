@@ -6,7 +6,7 @@
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/aarnas/more-than-clicker/Windows-x64/total)](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64)
 
 ## Requirements to run
-Download realease and run, no prerequisites required. 🎉
+Download release and run, no prerequisites required. 🎉
 
 ## Available OS:
 - [Windows-x64](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64)
