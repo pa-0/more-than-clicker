@@ -2,8 +2,7 @@
 [![ReleaseDate](https://img.shields.io/github/release-date/aarnas/more-than-clicker?label=Release%20date)](https://github.com/aarnas/more-than-clicker/releases)
 [![Issues](https://img.shields.io/github/issues/aarnas/more-than-clicker?label=Issues)](https://github.com/aarnas/more-than-clicker/issues)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/aarnas/more-than-clicker/MacOS-v0.2/total?cacheSeconds=60)](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS-v0.2)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/aarnas/more-than-clicker/MacOS-v0.1/total?cacheSeconds=60)](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS-v0.1)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/aarnas/more-than-clicker/Windows-x64/total?cacheSeconds=60)](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/aarnas/more-than-clicker/Windows-x64-v0.2/total?cacheSeconds=60)](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64-v0.2)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/aarnas/more-than-clicker/Linux-x64/total?cacheSeconds=60)](https://github.com/aarnas/more-than-clicker/releases/tag/Linux-x64)
 [![Downloads](https://img.shields.io/github/downloads/aarnas/more-than-clicker/total?label=Total%20downloads&cacheSeconds=60)](https://github.com/aarnas/more-than-clicker/releases)
 
