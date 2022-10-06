@@ -6,7 +6,7 @@
 https://user-images.githubusercontent.com/44366184/194215287-20f4bb0f-877c-4161-a00e-2ad89356e483.mov
 
 ## Requirements to run
-Download release and run, no prerequisites required. 🎉
+Download release and run, no installation required. 🎉
 
 ## Available OS:
 - [Windows-x64](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64)
@@ -365,3 +365,17 @@ While choosing Create New Task, you get to create steps, try them to confirm all
 Also, application terminal logs out some data e.g. errors <br><br>
 <img width="500" alt="Screenshot 2021-10-30 at 09 13 01" src="https://user-images.githubusercontent.com/44366184/194215543-37d39f7d-0014-4036-b0be-801529d11456.png">
 </p>
+
+## ✨Whats new?
+- v0.4
+- Mouse pointer move to PNG image
+- Mouse other interactions 
+- Drag and Drop automation actions sequence 
+- Background change to dark
+- v0.3
+- Added JSON Editor to easily change / modify hubs json.
+- Fixed unexpected crash.
+- v0.2
+- Fixed delay function that was not working properly.
+
+
