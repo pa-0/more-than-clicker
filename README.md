@@ -1,5 +1,5 @@
 # AUTOMATION HUBS
-[![ReleaseDate](https://img.shields.io/github/release-date/aarnas/more-than-clicker?label=Release%20date)](https://github.com/aarnas/more-than-clicker/releases)
+[![ReleaseDate](https://img.shields.io/github/last-commit/aarnas/more-than-clicker?label=Release%20date)](https://github.com/aarnas/more-than-clicker/releases)
 [![Issues](https://img.shields.io/github/issues/aarnas/more-than-clicker?label=Issues)](https://github.com/aarnas/more-than-clicker/issues)
 [![Downloads](https://img.shields.io/github/downloads/aarnas/more-than-clicker/total?label=Total%20downloads&cacheSeconds=60)](https://github.com/aarnas/more-than-clicker/releases)
 
