@@ -3,6 +3,8 @@
 [![Issues](https://img.shields.io/github/issues/aarnas/more-than-clicker?label=Issues)](https://github.com/aarnas/more-than-clicker/issues)
 [![Downloads](https://img.shields.io/github/downloads/aarnas/more-than-clicker/total?label=Total%20downloads&cacheSeconds=60)](https://github.com/aarnas/more-than-clicker/releases)
 
+https://user-images.githubusercontent.com/44366184/194215287-20f4bb0f-877c-4161-a00e-2ad89356e483.mov
+
 ## Requirements to run
 Download release and run, no prerequisites required. 🎉
 
@@ -12,7 +14,8 @@ Download release and run, no prerequisites required. 🎉
 - [MacOS](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS)
 
 ## How it Works
-- At the beginning you have to run executable.
+- At the beginning you have to run executable. Each OS handles it a bit different, so it is added to Release itself.
+- Make sure your `images` at the same place as executable in the `images` folder. If you make changes in the images, you need to rerun executable.
 - Terminal opens with `message`:
   ```bash
   Ensure website (out) directory is available regarding path: /Users/<user>/out
@@ -338,29 +341,27 @@ ___
 
 <h1 align="center">Screenshots</h1>
 <p align="center">
-  Create as much Hubs as needed, your Hubs are saved locally:<br>
-  <img width="275" alt="Screenshot 2021-10-30 at 09 09 12" src="https://user-images.githubusercontent.com/44366184/139522643-0fb06db6-b3ab-4fd7-945b-5393c8eff833.png">
+  Create as much Hubs as needed, your Hubs are saved locally. Only name is needed for new Hub<br>
+  <img width="500" alt="Screenshot1" src="https://user-images.githubusercontent.com/44366184/194209796-c8f82b34-d306-4f87-8af8-4fbde43a8115.png">
 </p>
-<p align="center">
-  Only name is needed for new Hub:<br>
-  <img width="275" alt="Screenshot 2021-10-30 at 09 08 59" src="https://user-images.githubusercontent.com/44366184/139522649-61662c0f-9090-4721-94e1-5276a0c3cee0.png">
 </p>
 <p align="center">
 Created Hubs contains tasks, your Hub Tasks are saved locally:<br>
-  <img width="275" alt="Screenshot 2021-10-30 at 09 09 25" src="https://user-images.githubusercontent.com/44366184/139522720-6525f00c-6a1e-4c75-859b-1f55d810f86f.png">
+  <img width="500" alt="Screenshot2" src="https://user-images.githubusercontent.com/44366184/194210186-90586e85-d567-44e7-9355-7992a921ff33.png">
 </p>
 <p align="center">
 While adding Task, you can choose from Uploaded ones, everyone can upload task while creating them:<br>
-  <img width="275" alt="Screenshot 2021-10-30 at 09 09 33" src="https://user-images.githubusercontent.com/44366184/139522929-933982ef-34b1-49fa-ad0b-a441d835df07.png">
+  <img width="500" alt="Screenshot3" src="https://user-images.githubusercontent.com/44366184/194210431-93a1fe17-0eec-42db-ab89-f449b5b3537b.png">
 </p>
 <p align="center">
 Before adding Task from uploaded ones, you get to preview actions to confirm task intensions<br>
-  <img width="275" alt="Screenshot 2021-10-30 at 09 09 41" src="https://user-images.githubusercontent.com/44366184/139522957-d9297359-82a1-4dfe-a67d-06ac67216ce3.png">
+  <img width="500" alt="Screenshot4" src="https://user-images.githubusercontent.com/44366184/194210514-8943867c-e6ae-46d8-9637-7dd811c91894.png">
 </p>
 <p align="center">
-While choosing Create New Task, you get to create steps, try them to confirm all works fine and choose to add only locally to your Hub without uploading, or share it with others while choosing UPLOAD & ADD.<br>
-<img width="275" alt="Screenshot 2021-10-30 at 09 11 54" src="https://user-images.githubusercontent.com/44366184/139523045-9413c22d-a946-4afd-94d8-ed8e3a07904e.png">
+While choosing Create New Task, you get to create steps, try them to confirm all works fine, drag and drop the order and choose to add only locally to your Hub without uploading, or share it with others while choosing UPLOAD & ADD. Video at the top illustrates that well.<br>
+<img width="500" alt="Screenshot4" src="https://user-images.githubusercontent.com/44366184/194216347-22277100-5cd9-4493-81cc-4246fc66ecf0.png">
+</p>
 <p align="center">
-Also, application terminal logs out some data e.g. User connected, Hub Tasks, error<br>
-<img width="626" alt="Screenshot 2021-10-30 at 09 13 01" src="https://user-images.githubusercontent.com/44366184/139524219-7e9fce72-96de-4b55-b055-b81db07e988a.png">
+Also, application terminal logs out some data e.g. errors <br><br>
+<img width="500" alt="Screenshot 2021-10-30 at 09 13 01" src="https://user-images.githubusercontent.com/44366184/194215543-37d39f7d-0014-4036-b0be-801529d11456.png">
 </p>
