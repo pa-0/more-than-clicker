@@ -10,9 +10,9 @@ P.S. Before running program add images folder with PNG images to the same direct
 Download release and run, no installation required. 🎉
 
 ## Available OS:
-- [Windows-x64](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64)
-- [Linux-x64](https://github.com/aarnas/more-than-clicker/releases/tag/Linux-x64)
-- [MacOS](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS)
+- [Windows-x64](https://github.com/aarnas/more-than-clicker/releases/tag/Windows-x64_v0.4)
+- [Linux-x64](https://github.com/aarnas/more-than-clicker/releases/tag/Linux-x64_v0.4)
+- [MacOS](https://github.com/aarnas/more-than-clicker/releases/tag/MacOS_v0.4)
 
 ## How it Works
 - At the beginning you have to run executable. Each OS handles it a bit different, so it is added to Release itself.
