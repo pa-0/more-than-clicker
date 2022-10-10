@@ -5,6 +5,7 @@
 
 https://user-images.githubusercontent.com/44366184/194215287-20f4bb0f-877c-4161-a00e-2ad89356e483.mov
 
+P.S. Before running program add images folder with PNG images to the same directory as executable.
 ## Requirements to run
 Download release and run, no installation required. 🎉
 
@@ -25,6 +26,25 @@ Download release and run, no installation required. 🎉
 - At this point you can open http://localhost:4321 on computer running application, or grab your mobile that is connected to the same network and go to http://`<your-local-ip>`:4321
 - Preview [screenshots](#Screenshots)
 
+## ✨Whats new?
+- v0.4
+- Mouse pointer move to PNG image (write image name without extension in action content, only PNG for now)
+  - calibrate (takes your screen, then moves mouse to right bottom corner (saves max bottom), then moves mouse to left top corner (saves max bottom), compares with screen to find aspect ratio of mouse move (shows aspect ratio to terminal). Aspect ratio is used to corectly define required movement to desired image in screen.)
+  - setAspectRatio ratio (quicker way to define aspect ratio from calibrate, if you know one. This is required only once after application start)
+  - moveToImage (Tries to find image in screen and move to it. If image not found, automation stops entirely)
+  - lookForImage (Tries to find image in screen while repeating process to find. If found, automation sequence moves forward)
+  - lookToMoveToImage (Tries to find image in screen and move to it while repeating process to find)
+- Mouse other interactions 
+  - click left/right (if only click, then left) 
+  - doubleClick (no action content needed)
+  - mouseScrollX pixels (pixels amount number)
+  - mouseScrollY pixels (pixels amount number)
+- Drag and Drop automation actions sequence 
+- Background change to dark
+- v0.3
+- Added JSON Editor to easily change / modify hubs json. ( You can share it with others! )
+- v0.2
+- Fixed delay function that was not working properly.
 ___
 <h2 align="center"> Posible keys for keyTap </h1>
 <table align="center">
@@ -365,17 +385,3 @@ While choosing Create New Task, you get to create steps, try them to confirm all
 Also, application terminal logs out some data e.g. errors <br><br>
 <img width="500" alt="Screenshot 2021-10-30 at 09 13 01" src="https://user-images.githubusercontent.com/44366184/194215543-37d39f7d-0014-4036-b0be-801529d11456.png">
 </p>
-
-## ✨Whats new?
-- v0.4
-- Mouse pointer move to PNG image
-- Mouse other interactions 
-- Drag and Drop automation actions sequence 
-- Background change to dark
-- v0.3
-- Added JSON Editor to easily change / modify hubs json.
-- Fixed unexpected crash.
-- v0.2
-- Fixed delay function that was not working properly.
-
-
