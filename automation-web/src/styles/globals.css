@@ -1,0 +1,41 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.MuiCard-root {
+  color: white !important;
+  background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.MuiTypography-root {
+  color: white !important;
+}
+
+.MuiFormLabel-root {
+  color: white !important;
+}
+
+.MuiInput-input {
+  color: white !important;
+}
+
+.MuiInput-underline:after {
+  border-bottom: 2px solid rgb(167, 167, 167) !important;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}

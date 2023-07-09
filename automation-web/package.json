@@ -1,0 +1,33 @@
+{
+  "name": "automation-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3020",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "next": "^11.1.2",
+    "react": "17.0.2",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "17.0.2",
+    "react-json-editor-ajrm": "^2.5.13",
+    "socket.io-client": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.21",
+    "@types/react-json-editor-ajrm": "^2.5.3",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "typescript": "4.4.3"
+  },
+  "author": {
+    "name": "aarnas",
+    "email": "arnas@me365.xyz",
+    "url": "https://me365.xyz"
+  },
+  "license": "MIT"
+}

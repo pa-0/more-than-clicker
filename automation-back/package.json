@@ -1,0 +1,64 @@
+{
+  "name": "automation-back",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "build/index.js",
+  "pkg": {
+    "assets": [
+      "node_modules/**/**/**/*",
+      "build/**/*",
+      "out",
+      "hubs.json",
+      "settings.json",
+      "images"
+    ],
+    "targets": [
+      "node16-macos"
+    ]
+  },
+  "scripts": {
+    "web-add": "rimraf out && cp -r ../automation-web/out .",
+    "web-for-linux": "cp -r out ./executables/linux",
+    "web-for-windows": "cp -r out ./executables/windows",
+    "web-for-mac": "cp -r out ./executables/mac",
+    "build": "rimraf build && tsc",
+    "exe-clean": "rimraf executables",
+    "linux-build": "npm run web-add && npm run build && pkg --output executables/linux/automator . && npm run web-for-linux",
+    "windows-build": "npm run web-add && npm run build && pkg --output executables/windows/automator . && npm run web-for-windows",
+    "mac-build": "npm run web-add && npm run build && pkg --output executables/mac/automator . && npm run web-for-mac",
+    "preserve": "npm run build",
+    "serve": "cross-env NODE_ENV=development concurrently \"tsc --watch\" \"nodemon -q build/index.js\"",
+    "prestart": "npm run build",
+    "start": "cross-env NODE_ENV=production node build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "concurrently": "^6.2.1",
+    "express": "^4.17.1",
+    "inquirer": "^8.1.4",
+    "jimp": "^0.16.2",
+    "node-window-manager": "^2.2.4",
+    "robotjs": "^0.6.0",
+    "sharp": "^0.31.1",
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/inquirer": "^8.1.1",
+    "@types/node": "^16.9.1",
+    "@types/sharp": "^0.31.0",
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.12",
+    "pkg": "^5.3.2",
+    "rimraf": "^3.0.2",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  },
+  "author": {
+    "name": "aarnas",
+    "email": "arnas@me365.xyz",
+    "url": "https://me365.xyz"
+  },
+  "license": "MIT"
+}
